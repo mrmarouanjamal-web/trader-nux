@@ -1,0 +1,26 @@
+[2026-08-06 12:00:21.992 22168 DEBUG USBDeviceManager.cpp:550] 忽略未知设备: USB\VID_04CA&PID_707F\200901010001 
+[2026-08-06 12:00:21.992 22168 DEBUG USBDeviceManager.cpp:550] 忽略未知设备: USB\VID_0BDA&PID_8153\000001000000 
+[2026-08-06 12:02:21.703 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 12:02:21.705 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 12:26:31.626 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 12:26:31.630 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 12:27:26.447 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 12:27:26.449 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:09.554 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:09.557 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:22.090 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:22.111 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:22.117 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:23.133 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:23.200 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:23.283 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:23.319 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:23.335 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:23.345 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:23.354 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:23.361 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:23.368 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:23.374 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:23.377 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:23.380 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-06 13:05:23.383 3744 DEBUG USBDeviceManager.cpp:228] device nodes changed  

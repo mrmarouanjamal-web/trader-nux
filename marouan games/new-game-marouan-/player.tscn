@@ -1,0 +1,73 @@
+[gd_scene load_steps=9 format=3 uid="uid://d18meuexxjjh4"]
+
+[ext_resource type="Script" uid="uid://c1xfohx73bva5" path="res://player_body.gd" id="1_onrkg"]
+[ext_resource type="Texture2D" uid="uid://cou4b5du0kw0c" path="res://hero.png" id="2_i3pqv"]
+[ext_resource type="Texture2D" uid="uid://tvifb6j5lrmo" path="res://weapon.png" id="3_i3pqv"]
+[ext_resource type="PackedScene" uid="uid://bsf4ovn1d23vb" path="res://enemy.tscn" id="4_hqtel"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_hqtel"]
+animations = [{
+"frames": [],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_i3pqv")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_sh265"]
+size = Vector2(267, 473)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_i3pqv"]
+size = Vector2(382.75, 129)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_onrkg"]
+size = Vector2(3809, 152)
+
+[node name="Player" type="Node2D"]
+position = Vector2(1, 0)
+
+[node name="player body" type="CharacterBody2D" parent="."]
+script = ExtResource("1_onrkg")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="player body"]
+position = Vector2(0, 1)
+scale = Vector2(3.3, 3.3)
+sprite_frames = SubResource("SpriteFrames_hqtel")
+animation = &"idle"
+autoplay = "idle"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="player body"]
+position = Vector2(0, 3)
+shape = SubResource("RectangleShape2D_sh265")
+
+[node name="AttackArea" type="Area2D" parent="player body"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="player body/AttackArea"]
+position = Vector2(207, -16)
+shape = SubResource("RectangleShape2D_i3pqv")
+
+[node name="Sprite2D" type="Sprite2D" parent="player body/AttackArea"]
+position = Vector2(209, -68)
+scale = Vector2(3.3639455, 1.9285715)
+texture = ExtResource("3_i3pqv")
+
+[node name="Camera2D" type="Camera2D" parent="player body"]
+position_smoothing_enabled = true
+
+[node name="ground" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="ground"]
+position = Vector2(2.5, 319)
+shape = SubResource("RectangleShape2D_onrkg")
+
+[node name="enemy" parent="." instance=ExtResource("4_hqtel")]
+position = Vector2(328, 131)
+
+[connection signal="body_entered" from="player body/AttackArea" to="player body" method="_on_attack_area_body_entered"]

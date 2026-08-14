@@ -1,0 +1,44 @@
+2026-08-04 00:19:31 576  [write] Log.cpp:106:LogInit :  g_nLogLevel[0x5][0x5]
+2026-08-04 00:19:31 598  [write] IOSLineScreenCast.cpp:1022:ilsc_init :  AutoInstallDrive[1]
+2026-08-04 00:19:31 598  [write] IOSLineScreenCast.cpp:1023:ilsc_init :  AutoUninstallDrive[0]
+2026-08-04 00:19:31 599  [write] IOSLineScreenCast.cpp:1024:ilsc_init :  AutoInstallDriveMsgBox[0]
+2026-08-04 00:19:31 600  [write] IOSLineScreenCast.cpp:1025:ilsc_init :  ScreenMode[1]
+2026-08-04 00:19:34 845  [info] IOSLineScreenCast.cpp:1202:ilsc_disable_qtConfig :  start
+2026-08-04 00:19:34 846  [info] IOSLineScreenCast.cpp:1203:ilsc_disable_qtConfig :  vid [1452]  pid [4776]  serialNumber[00008110000C356C14B9801E]
+2026-08-04 00:19:34 849  [info] IOSLineScreenCast.cpp:1205:ilsc_disable_qtConfig :  vecIosDevices num [0]
+2026-08-04 00:19:34 850  [warning] IOSLineScreenCast.cpp:1207:ilsc_disable_qtConfig :  寻找设备失败，请重新拔插设备
+2026-08-04 00:23:16 977  [info] IOSLineScreenCast.cpp:1202:ilsc_disable_qtConfig :  start
+2026-08-04 00:23:16 978  [info] IOSLineScreenCast.cpp:1203:ilsc_disable_qtConfig :  vid [1452]  pid [4776]  serialNumber[00008110000C356C14B9801E]
+2026-08-04 00:23:16 981  [info] IOSLineScreenCast.cpp:1205:ilsc_disable_qtConfig :  vecIosDevices num [0]
+2026-08-04 00:23:16 982  [warning] IOSLineScreenCast.cpp:1207:ilsc_disable_qtConfig :  寻找设备失败，请重新拔插设备
+2026-08-04 00:28:18 758  [info] IOSLineScreenCast.cpp:1202:ilsc_disable_qtConfig :  start
+2026-08-04 00:28:18 759  [info] IOSLineScreenCast.cpp:1203:ilsc_disable_qtConfig :  vid [1452]  pid [4776]  serialNumber[000081200019394A3CF3C01E]
+2026-08-04 00:28:18 763  [info] IOSLineScreenCast.cpp:1205:ilsc_disable_qtConfig :  vecIosDevices num [0]
+2026-08-04 00:28:18 764  [warning] IOSLineScreenCast.cpp:1207:ilsc_disable_qtConfig :  寻找设备失败，请重新拔插设备
+2026-08-04 00:31:11 462  [info] IOSLineScreenCast.cpp:1202:ilsc_disable_qtConfig :  start
+2026-08-04 00:31:11 463  [info] IOSLineScreenCast.cpp:1203:ilsc_disable_qtConfig :  vid [1452]  pid [4776]  serialNumber[00008110000C356C14B9801E]
+2026-08-04 00:31:11 465  [info] IOSLineScreenCast.cpp:1205:ilsc_disable_qtConfig :  vecIosDevices num [0]
+2026-08-04 00:31:11 466  [warning] IOSLineScreenCast.cpp:1207:ilsc_disable_qtConfig :  寻找设备失败，请重新拔插设备
+2026-08-04 00:43:22 324  [info] IOSLineScreenCast.cpp:1202:ilsc_disable_qtConfig :  start
+2026-08-04 00:43:22 325  [info] IOSLineScreenCast.cpp:1203:ilsc_disable_qtConfig :  vid [1452]  pid [4776]  serialNumber[000081200019394A3CF3C01E]
+2026-08-04 00:43:22 327  [info] IOSLineScreenCast.cpp:1205:ilsc_disable_qtConfig :  vecIosDevices num [0]
+2026-08-04 00:43:22 329  [warning] IOSLineScreenCast.cpp:1207:ilsc_disable_qtConfig :  寻找设备失败，请重新拔插设备
+2026-08-04 00:56:21 871  [info] IOSLineScreenCast.cpp:1202:ilsc_disable_qtConfig :  start
+2026-08-04 00:56:21 872  [info] IOSLineScreenCast.cpp:1203:ilsc_disable_qtConfig :  vid [1452]  pid [4776]  serialNumber[00008110000C356C14B9801E]
+2026-08-04 00:56:21 875  [info] IOSLineScreenCast.cpp:1205:ilsc_disable_qtConfig :  vecIosDevices num [0]
+2026-08-04 00:56:21 876  [warning] IOSLineScreenCast.cpp:1207:ilsc_disable_qtConfig :  寻找设备失败，请重新拔插设备
+2026-08-05 00:48:02 862  [write] Log.cpp:106:LogInit :  g_nLogLevel[0x5][0x5]
+2026-08-05 00:48:02 896  [write] IOSLineScreenCast.cpp:1022:ilsc_init :  AutoInstallDrive[1]
+2026-08-05 00:48:02 910  [write] IOSLineScreenCast.cpp:1023:ilsc_init :  AutoUninstallDrive[0]
+2026-08-05 00:48:02 925  [write] IOSLineScreenCast.cpp:1024:ilsc_init :  AutoInstallDriveMsgBox[0]
+2026-08-05 00:48:02 926  [write] IOSLineScreenCast.cpp:1025:ilsc_init :  ScreenMode[1]
+2026-08-05 12:37:00 734  [write] Log.cpp:106:LogInit :  g_nLogLevel[0x5][0x5]
+2026-08-05 12:37:00 738  [write] IOSLineScreenCast.cpp:1022:ilsc_init :  AutoInstallDrive[1]
+2026-08-05 12:37:00 740  [write] IOSLineScreenCast.cpp:1023:ilsc_init :  AutoUninstallDrive[0]
+2026-08-05 12:37:00 741  [write] IOSLineScreenCast.cpp:1024:ilsc_init :  AutoInstallDriveMsgBox[0]
+2026-08-05 12:37:00 742  [write] IOSLineScreenCast.cpp:1025:ilsc_init :  ScreenMode[1]
+2026-08-06 12:00:19 901  [write] Log.cpp:106:LogInit :  g_nLogLevel[0x5][0x5]
+2026-08-06 12:00:19 916  [write] IOSLineScreenCast.cpp:1022:ilsc_init :  AutoInstallDrive[1]
+2026-08-06 12:00:19 918  [write] IOSLineScreenCast.cpp:1023:ilsc_init :  AutoUninstallDrive[0]
+2026-08-06 12:00:19 919  [write] IOSLineScreenCast.cpp:1024:ilsc_init :  AutoInstallDriveMsgBox[0]
+2026-08-06 12:00:19 920  [write] IOSLineScreenCast.cpp:1025:ilsc_init :  ScreenMode[1]

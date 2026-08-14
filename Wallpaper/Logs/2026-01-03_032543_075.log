@@ -1,0 +1,30 @@
+2026-01-03 03:25:43.121 +01:00 [INF] ----------------- Logging Initialized -----------------
+2026-01-03 03:25:43.164 +01:00 [INF] Global exception handlers registered.
+2026-01-03 03:25:43.470 +01:00 [INF] Application startup sequence complete.
+2026-01-03 03:25:44.478 +01:00 [INF] SetDllDirectory successfully set to: C:\Program Files\WindowsApps\WuhanNetPowerTechnologyCo.WallpaperX-LivelyWallpap_2.9.8.0_x64__63m8b6nby1dvp\Wallpaper\FFmpeg
+2026-01-03 03:25:45.013 +01:00 [INF] No command line arguments provided. Window will be shown by default.
+2026-01-03 03:25:45.710 +01:00 [INF] 从本地数据初始化失败,尝试从在线数据初始化. 超时时间:40000
+2026-01-03 03:25:46.585 +01:00 [INF] No command line arguments provided. Window will be shown by default.
+2026-01-03 03:25:46.869 +01:00 [INF] 下载壁纸资源 720p 开始 Under The Cherry Blossom Tree 33ae8498-ccb6-4eb5-9c38-b06f1bad3a0b
+2026-01-03 03:25:46.871 +01:00 [INF] 下载壁纸资源 720p 开始 Water Princess 59725c90-958c-4f6e-8664-420da1469ecc
+2026-01-03 03:25:46.871 +01:00 [INF] 下载壁纸资源 720p 开始 Ink Wash Samurai 583698ee-73e8-46ab-86a1-7081ea5b78b0
+2026-01-03 03:25:46.871 +01:00 [INF] 下载壁纸资源 720p 开始 Ocean Wave Scenery bba1c252-dc13-4d1f-bb63-0e659deb4e80
+2026-01-03 03:25:46.872 +01:00 [INF] 下载壁纸资源 720p 开始 Punk Room f7164d0b-db6e-43eb-b8f8-db03f791be9c
+2026-01-03 03:25:47.072 +01:00 [INF] 下载壁纸资源 720p 完成 Under The Cherry Blossom Tree 33ae8498-ccb6-4eb5-9c38-b06f1bad3a0b
+2026-01-03 03:25:47.113 +01:00 [INF] 下载壁纸资源 720p 完成 Ink Wash Samurai 583698ee-73e8-46ab-86a1-7081ea5b78b0
+2026-01-03 03:25:47.164 +01:00 [INF] 下载壁纸资源 720p 完成 Punk Room f7164d0b-db6e-43eb-b8f8-db03f791be9c
+2026-01-03 03:25:47.203 +01:00 [INF] 下载壁纸资源 720p 完成 Water Princess 59725c90-958c-4f6e-8664-420da1469ecc
+2026-01-03 03:25:47.253 +01:00 [INF] 下载壁纸资源 720p 完成 Ocean Wave Scenery bba1c252-dc13-4d1f-bb63-0e659deb4e80
+2026-01-03 03:26:24.002 +01:00 [INF] 下载壁纸资源 720p 开始 Outside The Hatch b5909efc-44ac-457f-a671-e5b6f8843d33
+2026-01-03 03:26:24.109 +01:00 [INF] 下载壁纸资源 720p 完成 Outside The Hatch b5909efc-44ac-457f-a671-e5b6f8843d33
+2026-01-03 03:26:33.579 +01:00 [INF] 下载壁纸资源 720p 开始 Under The Cherry Blossom Tree 33ae8498-ccb6-4eb5-9c38-b06f1bad3a0b
+2026-01-03 03:26:33.591 +01:00 [INF] 下载壁纸资源 720p 完成 Under The Cherry Blossom Tree 33ae8498-ccb6-4eb5-9c38-b06f1bad3a0b
+2026-01-03 03:26:33.591 +01:00 [INF] 下载壁纸资源 720p 开始 Water Princess 59725c90-958c-4f6e-8664-420da1469ecc
+2026-01-03 03:26:33.613 +01:00 [INF] 下载壁纸资源 720p 完成 Water Princess 59725c90-958c-4f6e-8664-420da1469ecc
+2026-01-03 03:26:33.613 +01:00 [INF] 下载壁纸资源 720p 开始 Ink Wash Samurai 583698ee-73e8-46ab-86a1-7081ea5b78b0
+2026-01-03 03:26:33.625 +01:00 [INF] 下载壁纸资源 720p 完成 Ink Wash Samurai 583698ee-73e8-46ab-86a1-7081ea5b78b0
+2026-01-03 03:26:33.626 +01:00 [INF] 下载壁纸资源 720p 开始 Ocean Wave Scenery bba1c252-dc13-4d1f-bb63-0e659deb4e80
+2026-01-03 03:26:33.638 +01:00 [INF] 下载壁纸资源 720p 完成 Ocean Wave Scenery bba1c252-dc13-4d1f-bb63-0e659deb4e80
+2026-01-03 03:26:33.638 +01:00 [INF] 下载壁纸资源 720p 开始 Punk Room f7164d0b-db6e-43eb-b8f8-db03f791be9c
+2026-01-03 03:26:33.651 +01:00 [INF] 下载壁纸资源 720p 完成 Punk Room f7164d0b-db6e-43eb-b8f8-db03f791be9c
+2026-01-03 03:26:51.470 +01:00 [INF] Application exiting...

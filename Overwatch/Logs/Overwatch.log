@@ -1,0 +1,97 @@
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: GPU 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: name: NVIDIA GeForce GTX 1660 Ti
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: driverVersion: 32.0.16.1074
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: driverDate: 2026-07-02T00:00:00Z
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: vendorId: NVIDIA
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: deviceId: 0x2191
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: subsystemVendorId: 0x103c
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: subsystemId: 0x8574
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: revisionId: 0xa1
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: location: 1
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: type: Discrete
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: virtualizationMode: None
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: luid: 0x000000000001718e
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: index: 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: systemId: 0x000000009fdec766
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: Hybrid Graphics: 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: memory: 5966 MiB
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: sharedMemory: 5966 MiB
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:52.649Z]: prism: Info: Max queues: 1 graphics, 1 compute, 1 copy
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: Display 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: name: Generic PnP Monitor
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: pos: 0,0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: size: 1920x1080
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: refreshRate: 143998/1000
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: manufacturerId: 0xe430
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: productId: 0x05fe
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: systemId: 0x00000000f8c27d0c
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: nativeIndex: 1
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: nativeSize: 1920x1080
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: nativeRefreshRate: 143998/1000
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: supports4k: 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: supportsHdr: 1
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: supports120Hz: 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: isPrimary: 1
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: hdrEnabled: 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: isInternal: 1
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: freesync: 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.876Z]: prism: Info: mode count: 114
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: Display 1
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: name: HP E231
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: pos: 1920,0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: size: 1920x1080
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: refreshRate: 60/1
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: manufacturerId: 0xf022
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: productId: 0x3065
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: systemId: 0x00000000e6087065
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: nativeIndex: 2
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: nativeSize: 1920x1080
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: nativeRefreshRate: 60/1
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: supports4k: 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: supportsHdr: 1
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: supports120Hz: 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: isPrimary: 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: hdrEnabled: 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: isInternal: 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: freesync: 0
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: mode count: 75
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: prism: Info: --------------------------------------------
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: Enumerated 1 adapters.
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: Selected GPU: NVIDIA GeForce GTX 1660 Ti
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: Selected Display: Generic PnP Monitor
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: Selected Graphics API: Dx11
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:49:56.877Z]: Selected VidDeviceType: Dx11
+[8596] [ALW] [Engine] [External(0)] [External()] [2026-07-24T12:50:00.808Z]: Render Thread startup time: 2.966114 secs
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:22.584Z]: ==[VC] Client begin Base initialize
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:22.584Z]: ==[VC] Client Base initialized
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:22.584Z]: ==[VC] Client begin initialize
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:22.584Z]: ==[VC] Client initialized
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:22.584Z]: ==[VC] DetermineVoiceChatAudioDevices
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:22.584Z]: ==[VC] Devices started
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:22.584Z]: #=[VC] Auto-Join Enabled Flags 0000 -> 0004
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:22.584Z]: #=[VC] Channel Enabled Flags 0000 -> 0005
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:22.584Z]: ==[VC] Client started
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:22.803Z]: ==[VC] SetTargetOutputDevice Speaker / Headphone (Realtek(R) Audio)
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:22.803Z]: ==[VC] SetTargetInputDevice Microphone (Camo)
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.084Z]: #=[VC] ResponseGetOutputDevices 01 0(0:811c9dc5) (Default System Device|Default System Device) ({0.0.0.00000000}.{562e377a-60be-43e7-a74c-af0d3c323234}|Speaker / Headphone (Realtek(R) Audio)) ({0.0.0.00000000}.{562e377a-60be-43e7-a74c-af0d3c323234}|Speaker / Headphone (Realtek(R) Audio)) ({0.0.0.00000000}.{744cbd51-2466-4afa-b689-aa85cd2bf9c0}|HP E231 (NVIDIA High Definition Audio))
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.084Z]: ==[VC] Output devices added [(Default Communication Device|Default Communication Device),(Default System Device|Default System Device),(No Device|No Device),({0.0.0.00000000}.{562e377a-60be-43e7-a74c-af0d3c323234}|Speaker / Headphone (Realtek(R) Audio)),({0.0.0.00000000}.{744cbd51-2466-4afa-b689-aa85cd2bf9c0}|HP E231 (NVIDIA High Definition Audio))]
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.084Z]: ==[VC] New active output device (Default System Device|Default System Device)
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.105Z]: ==[VC] SetTargetOutputDevice Speaker / Headphone (Realtek(R) Audio)
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.105Z]: ==[VC] SetTargetInputDevice Microphone (Camo)
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.191Z]: #=[VC] ResponseGetInputDevices 01 0(0:811c9dc5) (Default System Device|Default System Device) ({0.0.1.00000000}.{6eb7068e-8012-4887-925c-9c3a869f3c9c}|Microphone (Camo)) ({0.0.1.00000000}.{6eb7068e-8012-4887-925c-9c3a869f3c9c}|Microphone (Camo)) ({0.0.1.00000000}.{6eb7068e-8012-4887-925c-9c3a869f3c9c}|Microphone (Camo))
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.191Z]: ==[VC] Input devices added [(Default Communication Device|Default Communication Device),(Default System Device|Default System Device),(No Device|No Device),({0.0.1.00000000}.{3ccdab31-c849-4690-9d1d-16b334e69bb1}|Microphone Array (Realtek(R) Audio)),({0.0.1.00000000}.{6eb7068e-8012-4887-925c-9c3a869f3c9c}|Microphone (Camo)),({0.0.1.00000000}.{916d0c7f-cfad-4e81-8a5a-c3451f9fa782}|Stereo Mix (Realtek(R) Audio))]
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.191Z]: ==[VC] New active input device (Default System Device|Default System Device)
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.237Z]: ==[VC] SetTargetOutputDevice Speaker / Headphone (Realtek(R) Audio)
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.237Z]: ==[VC] SetTargetInputDevice Microphone (Camo)
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.442Z]: #=[VC] ResponseGetOutputDevices 01 0(0:811c9dc5) (Default System Device|Default System Device) ({0.0.0.00000000}.{562e377a-60be-43e7-a74c-af0d3c323234}|Speaker / Headphone (Realtek(R) Audio)) ({0.0.0.00000000}.{562e377a-60be-43e7-a74c-af0d3c323234}|Speaker / Headphone (Realtek(R) Audio)) ({0.0.0.00000000}.{744cbd51-2466-4afa-b689-aa85cd2bf9c0}|HP E231 (NVIDIA High Definition Audio))
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.501Z]: #=[VC] ResponseGetInputDevices 01 0(0:811c9dc5) (Default System Device|Default System Device) ({0.0.1.00000000}.{6eb7068e-8012-4887-925c-9c3a869f3c9c}|Microphone (Camo)) ({0.0.1.00000000}.{6eb7068e-8012-4887-925c-9c3a869f3c9c}|Microphone (Camo)) ({0.0.1.00000000}.{6eb7068e-8012-4887-925c-9c3a869f3c9c}|Microphone (Camo))
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.601Z]: ==[VC] RequestSetActiveOutputDevice ({0.0.0.00000000}.{562e377a-60be-43e7-a74c-af0d3c323234}|Speaker / Headphone (Realtek(R) Audio))
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.601Z]: ==[VC] RequestSetActiveInputDevice ({0.0.1.00000000}.{6eb7068e-8012-4887-925c-9c3a869f3c9c}|Microphone (Camo))
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.679Z]: #=[VC] ResponseSetActiveOutputDevice 02 0(0:811c9dc5) 
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.679Z]: ==[VC] New active output device ({0.0.0.00000000}.{562e377a-60be-43e7-a74c-af0d3c323234}|Speaker / Headphone (Realtek(R) Audio))
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.679Z]: #=[VC] ResponseSetActiveInputDevice 02 0(0:811c9dc5) 
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T12:50:23.679Z]: ==[VC] New active input device ({0.0.1.00000000}.{6eb7068e-8012-4887-925c-9c3a869f3c9c}|Microphone (Camo))
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T13:02:44.789Z]: #=[VC] Channel Enabled Flags 0005 -> 0007
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T13:03:22.563Z]: #=[VC] Channel Enabled Flags 0007 -> 0005
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T13:04:06.403Z]: #=[VC] Channel Enabled Flags 0005 -> 0007
+[8596] [NRM] [VoiceChat] [External(0)] [External()] [2026-07-24T13:05:31.712Z]: #=[VC] Auto-Join Enabled Flags 0004 -> 0000

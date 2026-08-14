@@ -1,0 +1,92 @@
+[
+  {
+    "Platform": "Steam",
+    "SearchKeyList": [
+      {
+        "Sort": 1,
+        "SearchKeyItem": [
+          { "No": 1, "SearchWord": "Beauty" },
+          { "No": 2, "SearchWord": "Aesthetic" },
+          { "No": 3, "SearchWord": "Sci-Fi" },
+          { "No": 4, "SearchWord": "Worker" },
+          { "No": 5, "SearchWord": "Scenery" },
+          { "No": 6, "SearchWord": "Universe" },
+          { "No": 7, "SearchWord": "Cute" },
+          { "No": 8, "SearchWord": "Pet" },
+          { "No": 9, "SearchWord": "Car" },
+          { "No": 10, "SearchWord": "Girl" },
+          { "No": 11, "SearchWord": "Computer" },
+          { "No": 12, "SearchWord": "Food" },
+          { "No": 13, "SearchWord": "White Silk" },
+          { "No": 14, "SearchWord": "Cat" },
+          { "No": 15, "SearchWord": "Sea" }
+        ]
+      },
+      {
+        "Sort": 2,
+        "SearchKeyItem": [
+          { "No": 1, "SearchWord": "Stars" },
+          { "No": 2, "SearchWord": "Aesthetic" },
+          { "No": 3, "SearchWord": "Tiger" },
+          { "No": 4, "SearchWord": "Worker" },
+          { "No": 5, "SearchWord": "Lion" },
+          { "No": 6, "SearchWord": "Girl" },
+          { "No": 7, "SearchWord": "Cat" },
+          { "No": 8, "SearchWord": "Moon" },
+          { "No": 9, "SearchWord": "Snow Mountain" },
+          { "No": 10, "SearchWord": "Beauty" },
+          { "No": 11, "SearchWord": "Summer" },
+          { "No": 12, "SearchWord": "Esports" },
+          { "No": 13, "SearchWord": "White Silk" },
+          { "No": 14, "SearchWord": "Scenery" },
+          { "No": 15, "SearchWord": "Sea" }
+        ]
+      }
+    ]
+  },
+  {
+    "Platform": "Default",
+    "SearchKeyList": [
+      {
+        "Sort": 1,
+        "SearchKeyItem": [
+          { "No": 1, "SearchWord": "Beauty" },
+          { "No": 2, "SearchWord": "Gojo Satoru" },
+          { "No": 3, "SearchWord": "Genshin Impact" },
+          { "No": 4, "SearchWord": "Worker" },
+          { "No": 5, "SearchWord": "Naruto" },
+          { "No": 6, "SearchWord": "Black Myth" },
+          { "No": 7, "SearchWord": "Demon Slayer" },
+          { "No": 8, "SearchWord": "Honkai" },
+          { "No": 9, "SearchWord": "Jinx" },
+          { "No": 10, "SearchWord": "Girl" },
+          { "No": 11, "SearchWord": "Honor of Kings" },
+          { "No": 12, "SearchWord": "Wukong" },
+          { "No": 13, "SearchWord": "White Silk" },
+          { "No": 14, "SearchWord": "Cat" },
+          { "No": 15, "SearchWord": "Sea" }
+        ]
+      },
+      {
+        "Sort": 2,
+        "SearchKeyItem": [
+          { "No": 1, "SearchWord": "Genshin Impact" },
+          { "No": 2, "SearchWord": "Gojo Satoru" },
+          { "No": 3, "SearchWord": "Naruto" },
+          { "No": 4, "SearchWord": "Worker" },
+          { "No": 5, "SearchWord": "Crayon Shin-chan" },
+          { "No": 6, "SearchWord": "Girl" },
+          { "No": 7, "SearchWord": "Cat" },
+          { "No": 8, "SearchWord": "League of Legends" },
+          { "No": 9, "SearchWord": "Jinx" },
+          { "No": 10, "SearchWord": "Beauty" },
+          { "No": 11, "SearchWord": "Honor of Kings" },
+          { "No": 12, "SearchWord": "Wukong" },
+          { "No": 13, "SearchWord": "White Silk" },
+          { "No": 14, "SearchWord": "Scenery" },
+          { "No": 15, "SearchWord": "Sea" }
+        ]
+      }
+    ]
+  }
+]

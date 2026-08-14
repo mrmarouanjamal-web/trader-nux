@@ -1,0 +1,12 @@
+[2026-08-05 12:37:02.791 3544 DEBUG USBDeviceManager.cpp:550] 忽略未知设备: USB\VID_04CA&PID_707F\200901010001 
+[2026-08-05 12:37:02.791 3544 DEBUG USBDeviceManager.cpp:550] 忽略未知设备: USB\VID_0BDA&PID_8153\000001000000 
+[2026-08-05 12:37:48.164 17812 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-05 12:37:48.167 17812 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-05 12:37:48.173 17812 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-05 12:37:48.174 17812 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-05 12:37:48.232 17812 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-05 12:37:48.238 17812 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-05 12:37:48.252 17812 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-05 12:37:48.254 17812 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-05 12:37:48.258 17812 DEBUG USBDeviceManager.cpp:228] device nodes changed  
+[2026-08-05 12:37:48.258 17812 DEBUG USBDeviceManager.cpp:228] device nodes changed  
